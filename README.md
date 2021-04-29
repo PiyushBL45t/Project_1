@@ -1,2 +1,4 @@
 # Project_1
-This contains a raw code of a general bank software that is used to open an account. It has options in its its initial status as Check Balance, Deposit amount,  Withdraw amount, Account open type etc.
+This repo contanins teo codes 
+1) Code of a general bank software that opens a account for the customer. The conccept of OOP is used with simple hile looping and conditional statements. No python libraries or moduls were used in this code
+2) MArks.py a code that taken input from the user to store number of students present in a class test and return maximum number of students, students absent for the test and students scored maximum marks in the test.
