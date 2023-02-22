@@ -1,0 +1,8 @@
+The project contains some implementations of prototypes of atm machine and student marks
+calculator. Modules used for these projects are:
+1. sys - to implement changes using system.
+2. os - for fetching help from operating systems.
+
+Concepts used:
+1. Object Oriented Programming.
+2. Functional Programming.
